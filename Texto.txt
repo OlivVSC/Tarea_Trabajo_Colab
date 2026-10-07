@@ -1,4 +1,4 @@
 Lider: Oliver Gelvis
 Operadores:
-
+Suma: 40 + 2 = 42
 resta: 4-4=0
