@@ -1,2 +1,4 @@
 Lider: Oliver Gelvis
 Operadores:
+
+resta: 4-4=0
